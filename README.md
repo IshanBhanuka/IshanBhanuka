@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IshanBhanuka
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning engineering
+- 🌱 I’m currently learning engineering in university
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
