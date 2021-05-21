@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @IshanBhanuka
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning engineering in university
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning electronic engineering in university of peradeniya
 
 <!---
 IshanBhanuka/IshanBhanuka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
