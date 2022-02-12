@@ -1,4 +1,4 @@
-- 👋 ###Hi, I’m @IshanBhanuka
+- 👋 Hi, I’m @IshanBhanuka
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning electrical & electronic engineering in university of peradeniya
 
